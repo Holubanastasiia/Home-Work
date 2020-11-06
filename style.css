@@ -1,4 +1,15 @@
-.big {
-  font-size: 18px;
-  font-weight: 800;
+body {
+  background-image: url(img/1_bezymjannyj5.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.title_of_the_lists {
+  margin-left: 30px;
+}
+.items li {
+  margin-bottom: 30px;
+}
+.items ol {
+  margin-bottom: 20px;
 }
